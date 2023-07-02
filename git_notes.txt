@@ -1,0 +1,6 @@
+git status # to check the status of the dir.
+git add .  # to add all the new files to git. 
+git commit -m "comments here" # to commit.
+git push   # it will push the file to the repository
+echo 'file name or filder name' >> .gitignore  # to ignore the file in the directory. 
+
