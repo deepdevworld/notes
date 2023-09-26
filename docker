@@ -1,0 +1,5 @@
+
+#  raise DockerException(docker.errors.DockerException: Error while fetching server API version: ('Connection aborted.', PermissionError(13, 'Permission denied'))
+
+if permision issue occurs while running docker-compose up us the command:  sudo chmod 666 /var/run/docker.sock
+ 
